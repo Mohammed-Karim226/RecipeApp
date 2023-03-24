@@ -129,6 +129,12 @@ a{
     color: white;
     cursor: pointer;
 }
+@media(max-width:767px) {
+.main .container .search button{
+    display:block;
+    width:100%;
+}
+}
 
 /* end search */
 
