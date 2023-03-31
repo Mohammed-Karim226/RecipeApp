@@ -81,6 +81,7 @@ a{
     height: 100vh;
     background-color: whitesmoke;
     padding: 40px;
+    margin-top:10px;
 }
 @media(max-width:919px) {
     .main .container .search{
